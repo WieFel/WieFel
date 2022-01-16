@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="https://github.com/WieFel">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=WieFel&count_private=true&show_icons=true&theme=ayu-mirage&include_all_commits=true" />
+    <img align="center" src="https://github-readme-stats-wiefel.vercel.app/api?username=WieFel&count_private=true&show_icons=true&theme=ayu-mirage&include_all_commits=true" />
   </a>
 
   <a href="https://github.com/WieFel">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WieFel&theme=ayu-mirage&layout=compact&langs_count=8" />
+    <img align="center" src="https://github-readme-stats-wiefel.vercel.app/api/top-langs/?username=WieFel&theme=ayu-mirage&layout=compact&langs_count=8" />
   </a>
 </p>
